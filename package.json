@@ -1,0 +1,24 @@
+{
+  "name": "vue-gtagjs-directive",
+  "version": "1.0.0",
+  "description": "Vue directive for Google gtag.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingobus/vue-gtagjs-directive.git"
+  },
+  "keywords": [
+    "vuejs",
+    "gtagjs",
+    "directive"
+  ],
+  "author": "aztack@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lingobus/vue-gtagjs-directive/issues"
+  },
+  "homepage": "https://github.com/lingobus/vue-gtagjs-directive#readme"
+}
