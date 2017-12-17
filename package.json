@@ -1,6 +1,6 @@
 {
   "name": "vue-gtagjs-directive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue directive for Google gtag.js",
   "main": "dist/index.js",
   "scripts": {
